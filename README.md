@@ -4,7 +4,7 @@ A centralized collection of security and logic rules for various platforms. This
 
 ## formats
 
-- YARA [doc](https://virustotal.github.io/yara/)
+- YARA [doc](https://virustotal.github.io/yara/) **4 rules**
 - SIGMA [doc](https://sigmahq.io/docs/basics/rules.html)
 - SURICATA [doc](https://docs.suricata.io/en/latest/rules/index.html)
 - CRS [doc](https://coreruleset.org/docs/3-about-rules/creating/)
