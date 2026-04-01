@@ -23,3 +23,18 @@ The rules found in this repository are gathered from various official open-sourc
 - All rules include references or headers pointing to their original authors and licenses (such as MIT, Apache 2.0, or GPL) whenever possible.
 
 - We encourage users to visit the original repositories listed in our documentation to support the creators.
+
+## License
+
+This software is licensed under [GNU Affero General Public License version 3](http://www.gnu.org/licenses/agpl-3.0.html)
+
+```
+Copyright (C) 2025-2026 CIRCL - Computer Incident Response Center Luxembourg
+Copyright (C) 2025-2026 Theo Geffe
+```
+
+## Funding
+
+Rulezet is co-funded by [CIRCL](https://www.circl.lu/) and by the European Union under [FETTA](https://www.circl.lu/pub/press/20240131/) (Federated European Team for Threat Analysis) project.
+
+![EU logo](https://www.vulnerability-lookup.org/images/eu-funded.jpg)
