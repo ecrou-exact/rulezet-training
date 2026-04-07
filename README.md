@@ -11,6 +11,7 @@ A centralized collection of security and logic rules for various platforms. This
 - ZEEK [doc](https://docs.zeek.org/en/lts/scripting/basics.html)
 - WAZUH [doc](https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/rules.html)
 - NOVA [doc](https://novahunting.ai/)
+- NSE [doc](https://nmap.org/book/nse.html) **2 rules**
 
 ## Open Source and Attribution
 
