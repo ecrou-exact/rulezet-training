@@ -5,12 +5,12 @@ A centralized collection of security and logic rules for various platforms. This
 ## formats
 
 - YARA [doc](https://virustotal.github.io/yara/) **4 rules** and **1 bad rule**
-- SIGMA [doc](https://sigmahq.io/docs/basics/rules.html) **3 rules** and ** 1 bad rule**
+- SIGMA [doc](https://sigmahq.io/docs/basics/rules.html) **3 rules** and **1 bad rule**
 - SURICATA [doc](https://docs.suricata.io/en/latest/rules/index.html) **3 rules** and **1 bad rule**
-- CRS [doc](https://coreruleset.org/docs/3-about-rules/creating/)
+- CRS [doc](https://coreruleset.org/docs/3-about-rules/creating/) **3 rules**
 - ZEEK [doc](https://docs.zeek.org/en/lts/scripting/basics.html)
-- WAZUH [doc](https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/rules.html)
-- NOVA [doc](https://novahunting.ai/)
+- WAZUH [doc](https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/rules.html) **7 rules**
+- NOVA [doc](https://novahunting.ai/) **8 rules**
 - NSE [doc](https://nmap.org/book/nse.html) **2 rules**
 
 ## Open Source and Attribution
